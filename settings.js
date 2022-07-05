@@ -22,18 +22,18 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'Hiruko Kagetane' //Ganti Jadi Nama Botmu
-global.packname = 'Hiruko Kagetane' //Sticker Weem
-global.author = 'By Ryuuka Team' //Sticker Weem
+global.namaowner = '𝕭𝖔𝖙 • Andii あ⁩-ᴍᴅ᭄' //Ganti Jadi Namamu
+global.owner = ['6281285578808','6281285578808'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6281285578808' //Owner Utama Istilahnya
+global.namabot = '𝕭𝖔𝖙 • Andii あ⁩-ᴍᴅ᭄' //Ganti Jadi Nama Botmu
+global.packname = '𝕭𝖔𝖙 • Andii あ⁩-ᴍᴅ᭄' //Sticker Weem
+global.author = 'By 𝕭𝖔𝖙 • Andii あ⁩-ᴍᴅ᭄' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
-global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
+global.linkgroup = 'https://chat.whatsapp.com/K4YDVsvLl1L2NqSUtUbdza' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
-global.youtube = 'https://youtube.com/c/RyuukaBotz' //Ganti Sama Link Yt Mu
-global.github = 'https://github.com/R-TEAM94' //Ganti Sama Link Github Mu
-global.instagram = 'https://instagram.com/fandyyy._' //Ganti Sama Link Ig mu
+global.youtube = 'https://youtube.com/c/F' //Ganti Sama Link Yt Mu
+global.github = 'https://github.com/F' //Ganti Sama Link Github Mu
+global.instagram = 'https://instagram.com/F._' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -66,8 +66,8 @@ owner: '*LU BUKAN OWNER GW 😠*',
 group: '*KHUSUS GROUP 😏*',
 private: '*KHUSUS PRIVATE CHAT*',
 bot: '*KHUSUS PENGGUNA NOMER BOT*',
-wait: '*SABAR SEDANG DI PROSES ...*',
-done: '*DONE NGAB 🤗*',
+wait: '*Sabar Lah Kmtd 🧿...*',
+done: '*Done Yee Ajg 🤗*',
 }
 
 //===> KALO MAU MENYESUAIKAN NAMA FILE FOTO NYA
